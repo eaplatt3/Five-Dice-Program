@@ -1,4 +1,5 @@
-use strict
+using strict;
+using warnings; 
 
 # Variables 
 $die1 = "Die 1 ";
