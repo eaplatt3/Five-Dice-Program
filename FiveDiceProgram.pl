@@ -1,3 +1,14 @@
+####################################
+# Earl Platt III
+# 2/25/2019
+# BCS 316 - Perl Programming
+# Five Die Roll
+# Input - Random Generated
+#         Numbers Rolled 
+# Output - Display Number Rolled
+#          & Total of Numbers
+####################################
+
 use strict;
 use warnings; 
 
